@@ -1,0 +1,11 @@
+::ng-deep .options {
+    position: absolute;
+    margin: auto;
+    bottom: 0;
+    right: 0;
+    width: 260px;
+    top: 0;
+    left: 0;
+    border: 1px solid;
+    border-color: rgba(191, 191, 191, 0.15);
+}
